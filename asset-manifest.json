@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/25-5-Clock-App/static/css/main.7a6754e3.css",
+    "main.js": "/25-5-Clock-App/static/js/main.2b302515.js",
+    "static/js/453.a6110998.chunk.js": "/25-5-Clock-App/static/js/453.a6110998.chunk.js",
+    "index.html": "/25-5-Clock-App/index.html",
+    "main.7a6754e3.css.map": "/25-5-Clock-App/static/css/main.7a6754e3.css.map",
+    "main.2b302515.js.map": "/25-5-Clock-App/static/js/main.2b302515.js.map",
+    "453.a6110998.chunk.js.map": "/25-5-Clock-App/static/js/453.a6110998.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a6754e3.css",
+    "static/js/main.2b302515.js"
+  ]
+}
