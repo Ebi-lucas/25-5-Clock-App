@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body {
+  font-family: sans-serif;
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+#clock {
+  max-width: 500px;
+  margin: auto;
+  border: 2px solid #444;
+  padding: 2rem;
+  border-radius: 20px;
+  background: #222;
+}
+
+.length-control, .timer, .controls {
+  margin: 1rem 0;
+}
+
+button {
+  margin: 0.3rem;
+  padding: 0.5rem 1rem;
+  background: #00bcd4;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0097a7;
+}
+
