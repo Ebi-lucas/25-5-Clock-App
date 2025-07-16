@@ -2,7 +2,7 @@ import { useState, useRef, useEffect } from "react";
 import LengthControl from "./components/LengthControl";
 import Timer from "./components/Timer";
 import Controls from "./components/Controls";
-import "./index.css";
+import "./App.scss";
 
 const App = () => {
   const [breakLength,   setBreakLength]   = useState(5);   
